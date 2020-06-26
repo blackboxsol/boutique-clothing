@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/boutique-clothing/static/css/main.bdc908d8.chunk.css",
+    "main.js": "/boutique-clothing/static/js/main.72e27e46.chunk.js",
+    "main.js.map": "/boutique-clothing/static/js/main.72e27e46.chunk.js.map",
+    "runtime-main.js": "/boutique-clothing/static/js/runtime-main.2ca2eefe.js",
+    "runtime-main.js.map": "/boutique-clothing/static/js/runtime-main.2ca2eefe.js.map",
+    "static/js/2.ae99d1e2.chunk.js": "/boutique-clothing/static/js/2.ae99d1e2.chunk.js",
+    "static/js/2.ae99d1e2.chunk.js.map": "/boutique-clothing/static/js/2.ae99d1e2.chunk.js.map",
+    "index.html": "/boutique-clothing/index.html",
+    "precache-manifest.a824d6dd29e9bce0c3df7f54b8d40f7b.js": "/boutique-clothing/precache-manifest.a824d6dd29e9bce0c3df7f54b8d40f7b.js",
+    "service-worker.js": "/boutique-clothing/service-worker.js",
+    "static/css/main.bdc908d8.chunk.css.map": "/boutique-clothing/static/css/main.bdc908d8.chunk.css.map",
+    "static/js/2.ae99d1e2.chunk.js.LICENSE.txt": "/boutique-clothing/static/js/2.ae99d1e2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/boutique-clothing/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ca2eefe.js",
+    "static/js/2.ae99d1e2.chunk.js",
+    "static/css/main.bdc908d8.chunk.css",
+    "static/js/main.72e27e46.chunk.js"
+  ]
+}
