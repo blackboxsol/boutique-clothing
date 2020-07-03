@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/boutique-clothing/static/css/main.d6e5944f.chunk.css",
-    "main.js": "/boutique-clothing/static/js/main.7ec4b502.chunk.js",
-    "main.js.map": "/boutique-clothing/static/js/main.7ec4b502.chunk.js.map",
+    "main.js": "/boutique-clothing/static/js/main.671445ad.chunk.js",
+    "main.js.map": "/boutique-clothing/static/js/main.671445ad.chunk.js.map",
     "runtime-main.js": "/boutique-clothing/static/js/runtime-main.2ca2eefe.js",
     "runtime-main.js.map": "/boutique-clothing/static/js/runtime-main.2ca2eefe.js.map",
     "static/js/2.ad055a71.chunk.js": "/boutique-clothing/static/js/2.ad055a71.chunk.js",
     "static/js/2.ad055a71.chunk.js.map": "/boutique-clothing/static/js/2.ad055a71.chunk.js.map",
     "index.html": "/boutique-clothing/index.html",
-    "precache-manifest.18413efbefdd04bcadafebaea9ae2d66.js": "/boutique-clothing/precache-manifest.18413efbefdd04bcadafebaea9ae2d66.js",
+    "precache-manifest.75b2d42a2653fe1004486f13acda7691.js": "/boutique-clothing/precache-manifest.75b2d42a2653fe1004486f13acda7691.js",
     "service-worker.js": "/boutique-clothing/service-worker.js",
     "static/css/main.d6e5944f.chunk.css.map": "/boutique-clothing/static/css/main.d6e5944f.chunk.css.map",
     "static/js/2.ad055a71.chunk.js.LICENSE.txt": "/boutique-clothing/static/js/2.ad055a71.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.2ca2eefe.js",
     "static/js/2.ad055a71.chunk.js",
     "static/css/main.d6e5944f.chunk.css",
-    "static/js/main.7ec4b502.chunk.js"
+    "static/js/main.671445ad.chunk.js"
   ]
 }
