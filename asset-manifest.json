@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/boutique-clothing/static/css/main.356a5492.chunk.css",
-    "main.js": "/boutique-clothing/static/js/main.e77db118.chunk.js",
-    "main.js.map": "/boutique-clothing/static/js/main.e77db118.chunk.js.map",
+    "main.css": "/boutique-clothing/static/css/main.c590442b.chunk.css",
+    "main.js": "/boutique-clothing/static/js/main.4d844b16.chunk.js",
+    "main.js.map": "/boutique-clothing/static/js/main.4d844b16.chunk.js.map",
     "runtime-main.js": "/boutique-clothing/static/js/runtime-main.2ca2eefe.js",
     "runtime-main.js.map": "/boutique-clothing/static/js/runtime-main.2ca2eefe.js.map",
-    "static/js/2.29a12500.chunk.js": "/boutique-clothing/static/js/2.29a12500.chunk.js",
-    "static/js/2.29a12500.chunk.js.map": "/boutique-clothing/static/js/2.29a12500.chunk.js.map",
+    "static/js/2.93188d30.chunk.js": "/boutique-clothing/static/js/2.93188d30.chunk.js",
+    "static/js/2.93188d30.chunk.js.map": "/boutique-clothing/static/js/2.93188d30.chunk.js.map",
     "index.html": "/boutique-clothing/index.html",
-    "precache-manifest.8261468835578e34d56c14ec943835c6.js": "/boutique-clothing/precache-manifest.8261468835578e34d56c14ec943835c6.js",
+    "precache-manifest.dff15c23268697f714ae8d33f6d6496e.js": "/boutique-clothing/precache-manifest.dff15c23268697f714ae8d33f6d6496e.js",
     "service-worker.js": "/boutique-clothing/service-worker.js",
-    "static/css/main.356a5492.chunk.css.map": "/boutique-clothing/static/css/main.356a5492.chunk.css.map",
-    "static/js/2.29a12500.chunk.js.LICENSE.txt": "/boutique-clothing/static/js/2.29a12500.chunk.js.LICENSE.txt",
+    "static/css/main.c590442b.chunk.css.map": "/boutique-clothing/static/css/main.c590442b.chunk.css.map",
+    "static/js/2.93188d30.chunk.js.LICENSE.txt": "/boutique-clothing/static/js/2.93188d30.chunk.js.LICENSE.txt",
     "static/media/crown.19ef7b17.svg": "/boutique-clothing/static/media/crown.19ef7b17.svg",
     "static/media/shopping-bag.30f07071.svg": "/boutique-clothing/static/media/shopping-bag.30f07071.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.2ca2eefe.js",
-    "static/js/2.29a12500.chunk.js",
-    "static/css/main.356a5492.chunk.css",
-    "static/js/main.e77db118.chunk.js"
+    "static/js/2.93188d30.chunk.js",
+    "static/css/main.c590442b.chunk.css",
+    "static/js/main.4d844b16.chunk.js"
   ]
 }
