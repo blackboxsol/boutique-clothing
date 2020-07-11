@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "05c179b5417de30ee091a4d1b657305f",
+    "revision": "b500765092f886fd2d55ef859520f403",
     "url": "/boutique-clothing/index.html"
   },
   {
-    "revision": "30950d48e9898dacd512",
-    "url": "/boutique-clothing/static/css/main.c590442b.chunk.css"
+    "revision": "2a8e7a29ad6129d2dd96",
+    "url": "/boutique-clothing/static/css/main.1ee57f5f.chunk.css"
   },
   {
-    "revision": "3a0acd1622bfa101a435",
-    "url": "/boutique-clothing/static/js/2.93188d30.chunk.js"
+    "revision": "cf46d58d0f1903d4cc8e",
+    "url": "/boutique-clothing/static/js/2.087679f8.chunk.js"
   },
   {
     "revision": "0135287500bd9d64203d07b4f33f971f",
-    "url": "/boutique-clothing/static/js/2.93188d30.chunk.js.LICENSE.txt"
+    "url": "/boutique-clothing/static/js/2.087679f8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "30950d48e9898dacd512",
-    "url": "/boutique-clothing/static/js/main.4d844b16.chunk.js"
+    "revision": "2a8e7a29ad6129d2dd96",
+    "url": "/boutique-clothing/static/js/main.79d859a9.chunk.js"
   },
   {
     "revision": "0e379263ac5f3adb9e96",
