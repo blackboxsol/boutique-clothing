@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/boutique/static/css/main.73c7fcc5.chunk.css",
-    "main.js": "/boutique/static/js/main.37244974.chunk.js",
-    "main.js.map": "/boutique/static/js/main.37244974.chunk.js.map",
-    "runtime-main.js": "/boutique/static/js/runtime-main.f231ccfc.js",
-    "runtime-main.js.map": "/boutique/static/js/runtime-main.f231ccfc.js.map",
-    "static/js/2.99abbd5a.chunk.js": "/boutique/static/js/2.99abbd5a.chunk.js",
-    "static/js/2.99abbd5a.chunk.js.map": "/boutique/static/js/2.99abbd5a.chunk.js.map",
-    "index.html": "/boutique/index.html",
-    "precache-manifest.87542a2037c9d07551e485046c504f2c.js": "/boutique/precache-manifest.87542a2037c9d07551e485046c504f2c.js",
-    "service-worker.js": "/boutique/service-worker.js",
-    "static/css/main.73c7fcc5.chunk.css.map": "/boutique/static/css/main.73c7fcc5.chunk.css.map",
-    "static/js/2.99abbd5a.chunk.js.LICENSE.txt": "/boutique/static/js/2.99abbd5a.chunk.js.LICENSE.txt",
-    "static/media/crown.19ef7b17.svg": "/boutique/static/media/crown.19ef7b17.svg",
-    "static/media/shopping-bag.30f07071.svg": "/boutique/static/media/shopping-bag.30f07071.svg"
+    "main.css": "/boutique-clothing/static/css/main.73c7fcc5.chunk.css",
+    "main.js": "/boutique-clothing/static/js/main.f3c3130a.chunk.js",
+    "main.js.map": "/boutique-clothing/static/js/main.f3c3130a.chunk.js.map",
+    "runtime-main.js": "/boutique-clothing/static/js/runtime-main.2ca2eefe.js",
+    "runtime-main.js.map": "/boutique-clothing/static/js/runtime-main.2ca2eefe.js.map",
+    "static/js/2.1af9c6da.chunk.js": "/boutique-clothing/static/js/2.1af9c6da.chunk.js",
+    "static/js/2.1af9c6da.chunk.js.map": "/boutique-clothing/static/js/2.1af9c6da.chunk.js.map",
+    "index.html": "/boutique-clothing/index.html",
+    "precache-manifest.34ec85ec59be582c428a846f194e652a.js": "/boutique-clothing/precache-manifest.34ec85ec59be582c428a846f194e652a.js",
+    "service-worker.js": "/boutique-clothing/service-worker.js",
+    "static/css/main.73c7fcc5.chunk.css.map": "/boutique-clothing/static/css/main.73c7fcc5.chunk.css.map",
+    "static/js/2.1af9c6da.chunk.js.LICENSE.txt": "/boutique-clothing/static/js/2.1af9c6da.chunk.js.LICENSE.txt",
+    "static/media/crown.19ef7b17.svg": "/boutique-clothing/static/media/crown.19ef7b17.svg",
+    "static/media/shopping-bag.30f07071.svg": "/boutique-clothing/static/media/shopping-bag.30f07071.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f231ccfc.js",
-    "static/js/2.99abbd5a.chunk.js",
+    "static/js/runtime-main.2ca2eefe.js",
+    "static/js/2.1af9c6da.chunk.js",
     "static/css/main.73c7fcc5.chunk.css",
-    "static/js/main.37244974.chunk.js"
+    "static/js/main.f3c3130a.chunk.js"
   ]
 }
