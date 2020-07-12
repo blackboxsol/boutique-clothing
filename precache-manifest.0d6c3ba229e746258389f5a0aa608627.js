@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e32fe0d3d99baf4a5cf999ab3f9ade38",
+    "revision": "4d87e29ce29cc605ba3fe3f1c0e69209",
     "url": "/boutique-clothing/index.html"
   },
   {
-    "revision": "cde37ed90688df1c57a4",
+    "revision": "4e1796460bde9667b699",
     "url": "/boutique-clothing/static/css/main.73c7fcc5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/boutique-clothing/static/js/2.1af9c6da.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cde37ed90688df1c57a4",
-    "url": "/boutique-clothing/static/js/main.379006e4.chunk.js"
+    "revision": "4e1796460bde9667b699",
+    "url": "/boutique-clothing/static/js/main.3a03f532.chunk.js"
   },
   {
     "revision": "0e379263ac5f3adb9e96",
