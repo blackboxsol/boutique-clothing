@@ -25,7 +25,7 @@ const INITIAL_STATE = {
         {
             title: 'womens',
             // imageUrl: 'https://i.ibb.co/GCCdy8t/womens.png',
-            imageUrl: 'images/womens.png', // local file in public/images/
+            imageUrl: 'images/pep_women.jpg', // local file in public/images/
             size: 'large',
             id: 4,
             linkUrl: 'shop/womens'
@@ -33,7 +33,7 @@ const INITIAL_STATE = {
         {
             title: 'mens',
             // imageUrl: 'https://i.ibb.co/R70vBrQ/men.png',
-            imageUrl: 'images/men.png', // local file in public/images/
+            imageUrl: 'images/Robert_Men.jpg', // local file in public/images/
             size: 'large',
             id: 5,
             linkUrl: 'shop/mens'
